@@ -1,0 +1,2 @@
+# PicBed
+github图床
